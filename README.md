@@ -1,5 +1,9 @@
 # CS-Study
 
+[개인 노션 정리](https://fragrant-chameleon-864.notion.site/c24e84d2b9bd4b5883a282823af9639e?v=a653e2a1c05e440cbfc85ed0ea50073e)
+
+[전체 스터디 노션](https://fragrant-chameleon-864.notion.site/1ddd9c9e969f4e99a1249e28f7f70edf?v=df5df7e01c07470488d96ecbb8fd6ed1)
+
 ## Rule
 - 스터디는 매주 일요일 10시에 진행
 - 월~토까지 특정 주제를 조사하고 내용을 정리하여 스터디 시간에 발표
